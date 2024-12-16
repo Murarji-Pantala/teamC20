@@ -1,0 +1,9 @@
+{
+	"name": "pipeline-teamC20",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "23eaf505-aad1-4ffe-bd35-2fb289f280ea",
+		"tenantId": "654ad10e-3170-4844-bb2d-b2c7a9ae5a8d"
+	}
+}
